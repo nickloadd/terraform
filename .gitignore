@@ -1,0 +1,19 @@
+# Terraform
+.terraform.lock.hcl
+.terraform
+*.tfstate
+*.tfstate.backup
+
+# Terragrunt
+*.terragrant
+*.terragrunt-cache
+
+# ssh keys
+*.pub
+
+# Certificates
+*.pem
+*.key
+
+# MacOS meta
+*.DS_Store
